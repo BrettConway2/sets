@@ -15,7 +15,7 @@ The backend uses eventlet sockets to serve connections for real-time player inte
 (TODO)
 
 # Play Now
-The deployed game can be found at:   [sets-mu.vercel.app](sets-mu.vercel.app)
+Click [here](http://sets-mu.vercel.app) to play now!
 
 
 
