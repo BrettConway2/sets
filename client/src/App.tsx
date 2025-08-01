@@ -11,15 +11,15 @@ import ScoreBoard from './ScoreBoard';
 
 
 // FOR DEPLOYMENT
-// const socket = io("https://sets-production.up.railway.app", {
-//   transports: ["websocket"],
-// });
+const socket = io("https://sets-production.up.railway.app", {
+  transports: ["websocket"],
+});
 
 
 // FOR LOCAL TESTING
-const socket = io("http://localhost:8000", {
-  transports: ["websocket"],
-});
+// const socket = io("http://localhost:8000", {
+//   transports: ["websocket"],
+// });
 
 function App() {
 
